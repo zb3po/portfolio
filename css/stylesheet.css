@@ -1,0 +1,12 @@
+nav li {
+    display: inline;
+    color: royalblue;
+    font-variant: small-caps;
+}
+h1 {
+    text-align: center;
+}
+li {
+    font-weight: bolder;
+    font-style: italic;
+}
