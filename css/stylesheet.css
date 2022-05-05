@@ -1,6 +1,10 @@
+nav {
+    background-color: black;
+}
 nav li {
-    display: inline;
+    display: inline-block;
     font-variant: small-caps;
+    color: white;
 }
 h1 {
     text-align: center;
