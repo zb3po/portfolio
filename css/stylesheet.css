@@ -1,6 +1,5 @@
 nav li {
     display: inline;
-    color: royalblue;
     font-variant: small-caps;
 }
 h1 {
@@ -9,4 +8,10 @@ h1 {
 li {
     font-weight: bolder;
     font-style: italic;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
 }
